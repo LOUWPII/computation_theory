@@ -87,7 +87,7 @@ class Automata:
         return self.estado_actual.es_final
 
 automata = Automata()
-correo = "pip___egomezl2006@ja.ver.iana.edu.co"
+correo = "pi777eg767667omez...l2006@ja.6635ver.iana.edu.co"
 if automata.validar(correo):
     print("El correo es valido")
 else:

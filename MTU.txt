@@ -1,0 +1,7 @@
+Datos iniciales (escribe en la cinta dos números consecutivos mayores que 0)
+
+SUMAR: 
+>>>>>+++++>+++[<+>-]
+
+RESTAR:
+>>>>>+++++>+++[<->-]
